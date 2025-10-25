@@ -71,4 +71,10 @@ This project implements a Retrieval-Augmented Generation (RAG) chatbot using Str
 - **Question**: "What is the main topic of the document?"
 - **Answer**: The chatbot will provide a concise answer based on the content of the PDF.
 
+
+<img width="996" height="925" alt="image" src="https://github.com/user-attachments/assets/d470b76b-5272-40de-91d1-ded4fd803d94" />
+<img width="996" height="925" alt="image" src="https://github.com/user-attachments/assets/1b7adedb-aab7-42ac-9344-5db83b595813" />
+
+
+
 Enjoy using the RAG Chatbot!
